@@ -1,0 +1,6 @@
+praw==7.6.0
+yfinance==0.2.18
+pandas==2.1.0
+matplotlib==3.7.1
+seaborn==0.12.2
+vaderSentiment==3.3.2
