@@ -79,6 +79,11 @@ The start_date and end_date can be adjusted for fetching stock data over differe
 
 ### result 
 
+## Screenshot
+
+![Screenshot of the analysis](results/Screenshot 2024-10-05 191418.png)
+![Screenshot of the analysis](results/Screenshot 2024-10-05 191424.png)
+
 The script will scrape posts mentioning Apple (AAPL) from the r/wallstreetbets subreddit, analyze sentiment, and visualize how it correlates with AAPL stock price movements during 2023.
 
 ### Dependencies
